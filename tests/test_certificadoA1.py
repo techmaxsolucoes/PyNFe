@@ -2,8 +2,9 @@
 # *-* encoding: utf8 *-*
 
 import unittest
-
+import frappe
 from pynfe.entidades.certificado import CertificadoA1
+
 
 
 class CertificadoTestCase(unittest.TestCase):
